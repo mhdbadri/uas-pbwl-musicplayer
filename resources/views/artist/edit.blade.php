@@ -32,7 +32,7 @@
                             <strong>Edit Artist</strong>
                         </div>
                         <div class="pull-right">
-                        <a href="{{ url('category') }}" class="btn btn-secondary btn-sm">
+                        <a href="{{ url('artist') }}" class="btn btn-secondary btn-sm">
                                 <i class="fa fa-undo"></i> Back
                             </a>
                         </div>
